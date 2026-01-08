@@ -4,7 +4,7 @@
 ![Região](https://img.shields.io/badge/Foco-Piau%C3%AD%20--%20Brasil-blue)
 
 ## 🎥 Demonstração das Análises
-![GIF do Dashboard de Tuberculose]()
+![GIF do Dashboard de Tuberculose](casos_hanseniase.gif)
 
 ## 📋 Sobre o Projeto
 Este dashboard foi desenvolvido para a Secretaria de Saúde do Piauí (SESAPI) com o objetivo de centralizar e analisar os dados de **Tuberculose** no estado. Ele permite um acompanhamento detalhado desde o diagnóstico até o desfecho de cada caso, facilitando a identificação de áreas com maior incidência e perfis de vulnerabilidade.
